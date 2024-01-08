@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+## 📱 Connect with me:
+
 [![Instagram](https://skillicons.dev/icons?i=instagram  )](https://www.instagram.com/clewott) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/clewott/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Chris.LewellynOtten@gmail.com?subject=Hello%20Chris,%20From%20Github)
@@ -29,24 +31,24 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 💻 My Tech Stack:
+## 💻 My tech stack:
 
 [![My Tech Stack](https://skillicons.dev/icons?i=react,next,js,ts,html,css)](https://skillicons.dev)
 
-## 📖 Read My Blogs:
+## 📖 Read my blog:
 
 <p>
     <a target="_blank"href="https://clewott.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
-## 🏆 My Stats:
+## 🏆 My stats:
 
 <p>
     <img height=175 src="https://github-readme-stats.vercel.app/api?username=clewott28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=clewott&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>  
 
-## 🎮 When I'm AFK:
+## 🎮 When i'm AFK:
 
 <p>
     <img src="https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white" />&nbsp;&nbsp;
