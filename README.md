@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [Target](https://www.linkedin.com/company/target/). 
 - 🌱 I’m passionate about delivering amazing front end experiences.
-- 📝 I’m trying to write two articles per month starting from December 2023.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - 😄 Pronouns: He/Him/His
 
